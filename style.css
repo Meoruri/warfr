@@ -1,0 +1,12 @@
+  body {
+	color: #FFFFFF;
+	background-color: #5F5F5F;
+	background-image: url("./pic/fon.png");
+	background-attachment: fixed;
+	background-position: center center;
+	}
+
+    h1 {
+	color: #FCFCFC;
+	;
+	}
